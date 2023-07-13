@@ -1,4 +1,4 @@
-A User Authentication Tool Based On Behavioral Biometrics.
+A User Authentication Tool Based On Behavioral Biometrics
                       
 Behavioral biometrics has emerged as a promising solution to address the limitations of traditional authentication methods. By leveraging the unique behavior patterns exhibited by individuals, such as keystroke dynamics, behavioral biometrics offers a new dimension of authentication that enhances security and accuracy. 
 This project presents a software that uses Keystroke dynamics to provide secure authentication, without compromising the user experience. The software captures user keystroke dynamics,specifically Records three features: Hold time – time between press and release of a key, Keydown-Keydown time – time between the pressing of consecutive keys.
